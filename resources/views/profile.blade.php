@@ -28,18 +28,18 @@
             </div>
 
             <div class="profile-item">
-                <span>Kelas</span>
-                <strong>TI 2A</strong>
+                <span>Program Studi</span>
+                <strong>Sistem Informasi</strong>
             </div>
 
             <div class="profile-item">
                 <span>Email</span>
-                <strong>{{ $username }}@student.com</strong>
+                <strong>{{ $username }}@unej.mail.ac.id</strong>
             </div>
 
             <div class="profile-item">
                 <span>Bio</span>
-                <strong>Pejuang deadline dengan selera visual yang sedikit gelap dan cukup sadar diri.</strong>
+                <strong>Pejuang deadline yang cukup sadar diri.</strong>
             </div>
         </div>
     </div>

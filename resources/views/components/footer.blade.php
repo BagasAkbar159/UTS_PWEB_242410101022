@@ -19,7 +19,7 @@
         </div>
 
         <div style="font-size: 0.85rem; color: #9c9c9c;">
-            Web penugasan mahasiswa dengan aura sedikit tidak ramah.
+            Web penugasan mahasiswa.
         </div>
     </div>
 </footer>

@@ -4,10 +4,9 @@
 
 @section('content')
     <div class="hero-text">
-        <h1>Masuk ke <span class="accent">TugasBapakKau</span></h1>
+        <h1><span class="accent">TugasBapakKau</span></h1>
         <p>
-            Portal penugasan mahasiswa dengan nuansa sedikit mengancam, tapi tetap fungsional.
-            Masukkan username-mu dan hadapi daftar tugas dengan keberanian yang dibuat-buat.
+            woyyy masokkkk, kerjakannn tugass muuu!!!!!
         </p>
     </div>
 
@@ -19,7 +18,7 @@
         <button type="submit" class="btn">Masuk ke Dashboard</button>
     </form>
 
-    <div class="empty-note">
+    {{-- <div class="empty-note">
         Tidak ada sistem login sungguhan di sini. Hanya simulasi akademik yang cukup untuk membuat hidup terasa resmi.
-    </div>
+    </div> --}}
 @endsection

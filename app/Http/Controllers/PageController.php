@@ -36,13 +36,6 @@ class PageController extends Controller
                 'deadline' => '1 Mei 2026',
                 'status' => 'Selesai',
                 'prioritas' => 'Rendah'
-            ],
-            [
-                'matkul' => 'UI/UX',
-                'judul' => 'Prototype Aplikasi Mobile',
-                'deadline' => '1 Mei 2026',
-                'status' => 'Selesai',
-                'prioritas' => 'Rendah'
             ]
         ];
 
@@ -65,13 +58,6 @@ class PageController extends Controller
                 'deadline' => '29 April 2026',
                 'status' => 'Proses',
                 'prioritas' => 'Sedang'
-            ],
-            [
-                'matkul' => 'UI/UX',
-                'judul' => 'Prototype Aplikasi Mobile',
-                'deadline' => '1 Mei 2026',
-                'status' => 'Selesai',
-                'prioritas' => 'Rendah'
             ],
             [
                 'matkul' => 'UI/UX',
